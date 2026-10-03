@@ -98,3 +98,6 @@ body[data-motion="running"] .ambient-orbit { animation-play-state: running; }
 @media print {
   .ambient, .motion-toggle { display: none; }
 }
+
+/* Direct access to deployed work. */
+.project-links{display:flex;gap:16px;margin-top:20px}.project-links a{color:var(--blue);font-size:13px;font-weight:600;border-bottom:1px solid currentColor;padding-bottom:3px}.project-links a:hover{color:var(--ink)}

@@ -21,3 +21,5 @@ if (motionToggle) {
   document.addEventListener('visibilitychange', updateMotion);
   updateMotion();
 }
+
+document.querySelector('#print-cv')?.addEventListener('click', () => window.print());
