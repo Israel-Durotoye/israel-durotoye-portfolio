@@ -1,6 +1,6 @@
 # Israel Durotoye — Portfolio
 
-AI/ML engineering portfolio focused on RAG systems, Python backends and selected ML and embedded work.
+AI/ML engineering portfolio spanning intelligent applications, Python backends, machine learning and embedded systems. Recent RAG projects appear first.
 
 ## Run locally
 
